@@ -23,5 +23,6 @@ public class TestBase
 		driver.manage().deleteAllCookies();
 		driver.get(URL);
 		h=new HomePage();
+		int bac;
 	}
 }
